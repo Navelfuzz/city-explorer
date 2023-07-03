@@ -1,0 +1,12 @@
+.CityMap {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .CityMap img {
+    width: 50vw;
+    max-width: 100%;
+    height: auto;
+  }

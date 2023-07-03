@@ -1,10 +1,11 @@
 import React from 'react';
 import Table from 'react-bootstrap/Table';
+import './CityTable.css';
 
 class CityTable extends React.Component{
   render() {
     return(
-      <Table striped bordered hover>
+      <Table striped bordered hover className="CityTable">
       <thead>
         <tr>
           <th>City Name</th>
