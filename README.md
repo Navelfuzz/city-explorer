@@ -30,12 +30,12 @@ Actual time needed to complete: 15
 Name of feature: lab06-2
 Estimate of time needed to complete: 20
 Start time: 1235
-Finish time: XXXX
-Actual time needed to complete: XX
+Finish time: 1255
+Actual time needed to complete: 20
 
-Name of feature: lab06-X
-Estimate of time needed to complete: XX
-Start time: XXXX
+Name of feature: lab06-3
+Estimate of time needed to complete: 20
+Start time: 1300
 Finish time: XXXX
 Actual time needed to complete: XX
 
