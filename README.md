@@ -22,11 +22,37 @@
 
 
 Name of feature: lab06-1 
-
 Estimate of time needed to complete: 20
-
 Start time: 1200
+Finish time: 1215
+Actual time needed to complete: 15
 
-Finish time: _____
+Name of feature: lab06-2
+Estimate of time needed to complete: 20
+Start time: 1235
+Finish time: XXXX
+Actual time needed to complete: XX
 
-Actual time needed to complete: _____
+Name of feature: lab06-X
+Estimate of time needed to complete: XX
+Start time: XXXX
+Finish time: XXXX
+Actual time needed to complete: XX
+
+Name of feature: lab06-X
+Estimate of time needed to complete: XX
+Start time: XXXX
+Finish time: XXXX
+Actual time needed to complete: XX
+
+Name of feature: lab06-X
+Estimate of time needed to complete: XX
+Start time: XXXX
+Finish time: XXXX
+Actual time needed to complete: XX
+
+Name of feature: lab06-X
+Estimate of time needed to complete: XX
+Start time: XXXX
+Finish time: XXXX
+Actual time needed to complete: XX
